@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [UrbanLadder Application Test Automation Test Suite]">
+  <test thread-count="5" name="UrbanLadder - Gift Cards(failed)">
+    <classes>
+      <class name="com.urbanladder.tests.GiftCardsTest">
+        <methods>
+          <include name="openApplication"/>
+          <include name="invokeBrowser"/>
+          <include name="sendGiftCard" invocation-numbers="1"/>
+          <include name="quitBrowser"/>
+          <include name="flushReport"/>
+        </methods>
+      </class> <!-- com.urbanladder.tests.GiftCardsTest -->
+    </classes>
+  </test> <!-- UrbanLadder - Gift Cards(failed) -->
+</suite> <!-- Failed suite [UrbanLadder Application Test Automation Test Suite] -->

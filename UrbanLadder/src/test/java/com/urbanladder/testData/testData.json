@@ -1,0 +1,32 @@
+{
+	"GiftCard Data"	: 
+	[
+  		{
+			"Occasion"   		: "Weddings",
+			"Amount"    		: 15000,
+			"Month And Year"    : "7/2020",
+			"Day"		  		: "18",
+			"Recipient Name"    : "Babu",
+			"Recipient Email"   : "babu@gmail.com",
+			"Customer Name"    	: "Kabi",
+			"Customer Email" 	: "kabi2@gmail.com",
+			"Customer Mobile Number"     : "",
+			"Message"   	  	: ""
+  		},
+  		{
+			"Occasion"			: "Birthday/Anniversary",
+			"Amount"			: 9000,
+			"Month And Year"	: "7/2020",
+			"Day"		  		: "20",
+			"Recipient Name"	: "Babu",
+			"Recipient Email"	: "babu@gmail.com",
+			"Customer Name"    	: "Kabi",
+			"Customer Email" 	: "kabi@gmail.com",
+			"Customer Mobile Number"     : "7418638373",
+			"Message"   	  	: "Happy Birthday:)))"
+
+  		}
+
+  	]		
+
+ }

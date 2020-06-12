@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="UrbanLadder Application Test Automation Test Suite" duration-ms="80202" started-at="2020-06-12T14:10:56Z" finished-at="2020-06-12T14:12:16Z">
+    <groups>
+    </groups>
+    <test name="UrbanLadder - Gift Cards" duration-ms="80202" started-at="2020-06-12T14:10:56Z" finished-at="2020-06-12T14:12:16Z">
+      <class name="com.urbanladder.tests.GiftCardsTest">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:com.urbanladder.tests.GiftCardsTest@10dba097]" name="invokeBrowser" is-config="true" duration-ms="8488" started-at="2020-06-12T14:10:47Z" finished-at="2020-06-12T14:10:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:com.urbanladder.tests.GiftCardsTest@10dba097]" name="openApplication" is-config="true" duration-ms="21864" started-at="2020-06-12T14:10:56Z" finished-at="2020-06-12T14:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="sendGiftCard(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.urbanladder.tests.GiftCardsTest@10dba097]" name="sendGiftCard" duration-ms="46931" started-at="2020-06-12T14:11:18Z" data-provider="getGiftCardData" finished-at="2020-06-12T14:12:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Weddings]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7/2020]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[babu@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Kabi]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[kabi2@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendGiftCard -->
+        <test-method status="PASS" signature="sendGiftCard(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.urbanladder.tests.GiftCardsTest@10dba097]" name="sendGiftCard" duration-ms="9923" started-at="2020-06-12T14:12:05Z" data-provider="getGiftCardData" finished-at="2020-06-12T14:12:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Birthday/Anniversary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7/2020]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[babu@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Kabi]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[kabi@gmail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[7418638373]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Happy Birthday:)))]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendGiftCard -->
+        <test-method status="PASS" signature="flushReport()[pri:0, instance:com.urbanladder.tests.GiftCardsTest@10dba097]" name="flushReport" is-config="true" duration-ms="1212" started-at="2020-06-12T14:12:15Z" finished-at="2020-06-12T14:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReport -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.urbanladder.tests.GiftCardsTest@10dba097]" name="quitBrowser" is-config="true" duration-ms="964" started-at="2020-06-12T14:12:16Z" finished-at="2020-06-12T14:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.urbanladder.tests.GiftCardsTest -->
+    </test> <!-- UrbanLadder - Gift Cards -->
+  </suite> <!-- UrbanLadder Application Test Automation Test Suite -->
+</testng-results>
